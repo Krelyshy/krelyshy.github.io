@@ -1,2 +1,2 @@
 # krelyshy.github.io
-Krel's webpage.
+Krel's GitHub.
